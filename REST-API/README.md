@@ -30,11 +30,11 @@
 ## Building blocks
 
 ---------------------    Request        -------------------
--                   -  ------------>    -                 -
--                   -                   -                 -
--      Client       -    Resopnse       -     Server      -
--                   -                   -                 -
--                   -  <------------    -                 -
+--                  -  ------------>    -                 -
+--                  -                   -                 -
+--      Client      -    Resopnse       -     Server      -
+--                  -                   -                 -
+--                  -  <------------    -                 -
 ----------------------                  -------------------
 
 Request ->  HTTP Request Line,HTTP Header, HTTP body empty
